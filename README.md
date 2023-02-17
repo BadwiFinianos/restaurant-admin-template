@@ -24,3 +24,10 @@ Code was shared after the approval of the business owner.
 ## Contact us
 
 Email: badwifinianos@outlook.com
+
+## Snapshots
+
+![Add-meal description](./public/screenshots/Dashboard-Add-meal.PNG)
+
+
+![meals description](./public/screenshots/Dashboard-All-meal.PNG)
